@@ -1,5 +1,7 @@
 ## Changes in version 0.5.0-dev.1 (in development)
 
+* Most backgroundmaps now use HTTPS instead of HTTP. By @tiagoams.
+
 ## Changes in version 0.4.1
 
 * Using Roboto font in UI which increases readability of text.
